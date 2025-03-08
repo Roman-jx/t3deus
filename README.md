@@ -1,6 +1,7 @@
-Threat Hunting & Reverse Engineering
-CTF Writeups & Exploit Walkthroughs
-Pentesting & Red Team Tactics
-Security Research & Zero-Day Exploration
-No filler. No fluff. Just raw insights, technical breakdowns, and real-world attack scenarios.
-
+🚀 Cybersecurity Research & CTF Writeups
+🔍 Exploring security through CTFs, exploit development, and real-world research.
+🚀 Topics Covered:
+🛡️ CTF Writeups & Walkthroughs
+🔍 Threat Hunting & Malware Analysis
+📜 Pentesting & Red Team Tactics
+⚡ Security Research & Reverse Engineering
