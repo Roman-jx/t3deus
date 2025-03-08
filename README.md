@@ -1,7 +1,5 @@
-🚀 Cybersecurity Research & CTF Writeups
-🔍 Exploring security through CTFs, exploit development, and real-world research.
-🚀 Topics Covered:
-🛡️ CTF Writeups & Walkthroughs
-🔍 Threat Hunting & Malware Analysis
-📜 Pentesting & Red Team Tactics
-⚡ Security Research & Reverse Engineering
+# 🚀 Cybersecurity Research & CTF Writeups  
+
+![Cybersecurity Banner](https://source.unsplash.com/1600x400/?cybersecurity,hacking)  
+
+🔍 **Exploring security through CTFs, exploit development, and real-world research.**  
