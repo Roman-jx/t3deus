@@ -12,6 +12,8 @@ I'm passionate about cybersecurity, specializing in **threat hunting, red teamin
 👾 **Security Tools & Scripts** – Python/Bash tools for automation, reconnaissance, and analysis.  
 👾 **Red Teaming** – Documentation of assessments and methodology.  
 
+![Red Teaming](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40r1ckyr3c0n%2Fhavoc-c2-framework-part-1-installation-2024-2fbb8a1fe31c&psig=AOvVaw0asIQvX-_ilNALRkIRRcGy&ust=1741906720828000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNia3K3ShYwDFQAAAAAdAAAAABA5)
+
 ---
 
 ## 🔗 Let’s Connect!  
