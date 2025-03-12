@@ -1,5 +1,20 @@
-title: t3deus
+title: Spellt3deuszed
 description: Cybersecurity Research
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
+show_downloads: false
+excerpt_separator: <!-- excerpt-end -->
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-toc
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+gems:
+  - jekyll-toc
+
+toc:
+  min_level: 1
+  max_level: 6
+  no_toc_section_class: no_toc_section
+  list_class: toc-list
+  sublist_class: toc-sublist
