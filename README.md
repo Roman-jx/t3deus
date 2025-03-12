@@ -1,10 +1,10 @@
-# 🚀 Cybersecurity Research 🚀 
+# 🕹️ Cybersecurity Research 🕹️ 
 
 I'm passionate about cybersecurity, specializing in **threat hunting, red teaming, application security, and other staff**. This portfolio showcases my research, write-ups, and technical projects in offensive and defensive security.  
 
 ---
 
-## 🦹🏼 What You’ll Find Here 
+## 🦹🏼 What You’ll Find Here
 
 👾 **CTF Write-ups** – Detailed solutions for Hack The Box, TryHackMe, and other challenges.  
 👾 **Security Research** – Deep dives into vulnerabilities, malware analysis, and exploit development.  
